@@ -1,0 +1,27 @@
+#main{
+	width: 1140px;
+	margin: auto;
+	display: table;
+ 	height: 1000px;
+ 	}
+#main a{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+
+.navbar{
+	background:none !important;
+	 
+	}
+
+
+body{
+background-image: url();
+}
+
+.cfoto{
+	height: 700px;
+	width: auto;
+}
+

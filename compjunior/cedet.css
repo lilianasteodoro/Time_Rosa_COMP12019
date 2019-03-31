@@ -1,0 +1,62 @@
+h1{
+  padding-left: 150px;
+  color:yellow;
+}
+#cabeca img{
+  width: 100%;
+}
+
+#main{
+  width: 100%;
+  margin: auto;
+  display: table;
+}
+
+.navbar{
+  background:none !important;
+  width: 363px;
+  float:right; 
+  }
+
+#lateral{
+  float:left;
+  width: 30%;
+  display: block;
+  font-family: 'Lato', sans-serif;
+  border-right:1px solid #e4e4e4 ;
+  padding-left: 10%;
+}
+
+#lateral img{
+  width: 234px;
+  height:200px;
+  padding-top: 10px;
+}
+
+#baixo h1{
+  padding-left: 31%;
+  color:black;
+}
+
+#baixo img{
+  width:700px;
+  height:300px;
+  padding-left: 15%;
+}
+#baixo p{
+  padding-left: 15px;
+}
+
+
+#conteudo_maior{
+  float:left;
+  padding-top: 20px;
+  background-color: #F5F1D6;
+}
+#conteudo{
+  padding-left: 35%;
+}
+
+#conteudo p{
+  width: 80%;
+}

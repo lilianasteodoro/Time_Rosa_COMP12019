@@ -1,0 +1,95 @@
+#start{
+	height: auto;
+	width: 100%;
+}
+#inicio{
+	
+	font-size: 120px;
+	text-align: center;
+	font-family: Lumberjack Rough;
+	src: url(fontes/Lumberjack Rough);
+}
+div #text{
+	width: 990px;
+	padding-top: 600px;
+	padding-left: 30px; 
+	height:50em;
+    position: relative 
+}
+h2{
+	font-family: Lumberjack Rough;
+	src: url(fontes/Lumberjack Rough);
+	text-align: center;
+}
+ #mid{
+ 	width: 100%;
+	background-color: grey;
+}
+#midT{
+	color: #E2D515;
+	padding: 10px;
+	text-align: center;
+	font-size: 80px;
+	font-family: ADAM.CG PRO;
+	src: url(fontes/ADAM.CG PRO);
+}
+.img-home{
+
+	background-image: url(../img/maos.png);
+	height: 90vh;
+
+}
+.img-home{
+	margin: 0;
+	padding: 0;
+}
+div #start {
+	margin-top: 0;
+}
+#lamp{
+	width: 130px; 
+	margin: -20px 20px 70px -80px;
+	padding-top: 600px;
+	float: left;
+}
+p{
+	color: white;
+	text-align: center;
+	font-size: 36px;
+	font-family: Aileron;
+	src:url(fontes/Aileron-UltraLight);
+
+}
+#line1{
+	border: 2px solid grey;
+}
+#fim{
+	font-weight: bold;
+	padding: 10px;
+	font-size: 60px;
+	text-align: center;
+	font-family: ADAM.CG PRO;
+	src: url(fontes/ADAM.CG PRO);
+
+}
+#vovo{
+	font-size: 24px;
+	text-align: center;
+	font-family: ADAM.CG PRO;
+	src: url(fontes/ADAM.CG PRO);
+}
+#texto{
+	border-right: 2px solid grey;
+}
+#imgVovo{
+	padding-left: 160px;
+}
+#txtVovo{
+	font-size: 28px;
+	color: black;
+}
+#imgCedet{
+	margin-left: 45px;
+	width: 300px;
+	padding-left: 160px;
+}
